@@ -5,5 +5,5 @@
 # !xz cordenadas x z
 # guard
 # stop
-# se recomienda tener los plugins viaversion y viabackward en tu server minecraft y poner el bot en vercion 1.16.5
+se recomienda tener los plugins viaversion y viabackward en tu server minecraft y poner el bot en vercion 1.16.5
 No tengo canal de youtube pero si quieres agradecer da las gracias en el server discord https://discord.gg/NnhN74YMMr
